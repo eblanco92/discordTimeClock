@@ -1,0 +1,11 @@
+names,name1,name2
+Checkin,12345,12345
+Checkout,12340,12345
+Duration,1234,1234
+Break out,1234,1234
+Break In,1234,1234
+CheckedIn,FALSE,FALSE
+CheckedOut,FALSE,FALSE
+Breaktaken,FALSE,FALSE
+Breakreturned,FALSE,FALSE
+Emergency,FALSE,FALSE
