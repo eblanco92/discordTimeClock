@@ -8,7 +8,7 @@ Usage example:
 ![](https://i.snipboard.io/r4COfw.jpg)
 
 ### Join the test Discord server!
-https://discord.gg/Vk7YTh
+https://discord.gg/ksk5b4E
 - There you can try out the discord bot
 - You can ask how to use and implement the bot on your own
 
