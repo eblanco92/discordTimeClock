@@ -1,7 +1,9 @@
 # discordTimeClock
 Allows you to invite a bot into your discord server so your remote workers or freelancers can log the time they spent in your project. This information will be readily available in a Google Sheet so you can perform other operations with their hours (such as calculating salaries and payrolls)
 The bot takes each worker's username and writes how long they spent in the project everyday.
-
+Usage example:
+-  [User / worker informs of his shift](https://snipboard.io/VF98Yh.jpg)
+![alt text](https://i.snipboard.io/VF98Yh.jpg)
 ### Join the test Discord server!
 https://discord.gg/Vk7YTh
 - There you can try out the discord bot
